@@ -37,6 +37,29 @@
 # Module/Ubah.php
 <img width="785" height="701" alt="image" src="https://github.com/user-attachments/assets/30d41892-fd1d-4032-a0f0-ae468db58387" />
 
+# Template/Header.php
+<img width="805" height="480" alt="image" src="https://github.com/user-attachments/assets/546b62a5-8235-4d53-a87d-16060ea47d6a" />
+
+# Template/Footer.php
+<img width="545" height="196" alt="image" src="https://github.com/user-attachments/assets/e60bd74f-6179-46dd-9863-ac3cf1a0a52b" />
+
+# Template/Sidebar.php
+<img width="766" height="647" alt="image" src="https://github.com/user-attachments/assets/7caf2686-604c-4dd9-b01c-b399f05af74e" />
+
+# Halaman Artikel (http://localhost/lab11_php_oop/artikel/index)
+<img width="1919" height="464" alt="image" src="https://github.com/user-attachments/assets/d349e58d-4bf6-4a43-a9f7-bca71c71ce46" />
+
+# Halaman Tambah Artikel (http://localhost/lab11_php_oop/artikel/tambah)
+<img width="1919" height="470" alt="image" src="https://github.com/user-attachments/assets/5a0e3c83-4d09-4a04-ad1a-b3f658fa907c" />
+
+# Halaman Ubah Artikel (http://localhost/lab11_php_oop/artikel/ubah?id=1)
+<img width="1919" height="481" alt="image" src="https://github.com/user-attachments/assets/a9c37309-dd41-483b-8702-bf5a69f18753" />
+
+
+
+
+
+
 
 
 
