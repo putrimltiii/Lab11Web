@@ -1,1 +1,47 @@
 # Lab11Web
+# Nama: Putri Melati Ramadhaniati
+# NIM: 312410194
+# Kelas: TI.24.A1
+
+# Struktur Folder
+<img width="241" height="475" alt="image" src="https://github.com/user-attachments/assets/813a5d35-66c3-4ba0-8ef4-4aaaec5b0603" />
+
+# .htaccess
+<img width="549" height="254" alt="image" src="https://github.com/user-attachments/assets/ca48d4cc-5285-4369-b5fd-0f52ce5c04e3" />
+
+# Config.php
+<img width="405" height="222" alt="image" src="https://github.com/user-attachments/assets/d4779194-3ef9-4915-ad3b-81c7c5a166b7" />
+
+# Index.php
+<img width="835" height="621" alt="image" src="https://github.com/user-attachments/assets/d0af2e57-1876-4a00-b4bc-bec252cd5b8b" />
+
+# Class/Database.php
+<img width="1003" height="908" alt="image" src="https://github.com/user-attachments/assets/f6bb6611-a90e-4cac-bcbc-151b4a8276e7" />
+<img width="964" height="832" alt="image" src="https://github.com/user-attachments/assets/cf48fca7-f031-43d9-bc73-50633e2228ec" />
+<img width="881" height="297" alt="image" src="https://github.com/user-attachments/assets/b2d3e314-a0e4-4dab-937b-5e7f656e263f" />
+
+# Class/Form.php
+<img width="1079" height="908" alt="image" src="https://github.com/user-attachments/assets/bd8100b0-c9ae-4cb6-959d-895a18b67bd5" />
+<img width="1446" height="696" alt="image" src="https://github.com/user-attachments/assets/d29436b2-300f-4e80-9f3d-010431fea12a" />
+<img width="867" height="268" alt="image" src="https://github.com/user-attachments/assets/16dab84a-a575-4eed-812e-de3315a8415c" />
+
+# Modul/Artikel
+<img width="662" height="199" alt="image" src="https://github.com/user-attachments/assets/593249c7-29e9-4a7f-b8d1-628c609b2384" />
+
+# Module/Index.php
+<img width="837" height="698" alt="image" src="https://github.com/user-attachments/assets/89353195-cec5-4e37-9f85-4b8e950035e7" />
+
+# Module/Tambah.php
+<img width="794" height="624" alt="image" src="https://github.com/user-attachments/assets/ed9a9ec2-1337-4eb3-8f91-46d8fc527406" />
+
+# Module/Ubah.php
+<img width="785" height="701" alt="image" src="https://github.com/user-attachments/assets/30d41892-fd1d-4032-a0f0-ae468db58387" />
+
+
+
+
+
+
+
+
+
