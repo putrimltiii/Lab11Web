@@ -48,13 +48,48 @@
 
 # Halaman Artikel (http://localhost/lab11_php_oop/artikel/index)
 <img width="1919" height="464" alt="image" src="https://github.com/user-attachments/assets/d349e58d-4bf6-4a43-a9f7-bca71c71ce46" />
+## Penjelasan: 
+<h3>Data Artikel</h3>
+<p>
+    Halaman ini menampilkan seluruh data artikel yang tersimpan di dalam database.
+    Data ditampilkan dalam bentuk tabel yang berisi ID artikel, judul, dan isi artikel.
+</p>
+<p>
+    Dari halaman ini, Anda juga dapat memilih untuk mengubah artikel dengan menekan 
+    tombol <b>Ubah</b> pada baris data yang ingin diedit. Jika ingin menambah artikel baru, 
+    klik menu <b>Tambah Artikel</b> di navigasi atas.
+</p>
+
 
 # Halaman Tambah Artikel (http://localhost/lab11_php_oop/artikel/tambah)
 <img width="1919" height="470" alt="image" src="https://github.com/user-attachments/assets/5a0e3c83-4d09-4a04-ad1a-b3f658fa907c" />
+## Penjelasan: 
+<h3>Tambah Artikel Baru</h3>
+<p>
+    Pada halaman ini, Anda dapat menambah data artikel baru melalui form yang telah disediakan.
+    Form ini dibuat secara dinamis menggunakan class <i>Form</i> yang telah dirancang 
+    pada praktikum sebelumnya.
+</p>
+<p>
+    Setelah data diisi dan tombol <b>Simpan</b> ditekan, data akan otomatis dimasukkan 
+    ke dalam tabel <b>artikel</b> di database <b>latihan_oop</b>. Jika penyimpanan berhasil, 
+    akan muncul notifikasi bahwa artikel telah berhasil ditambahkan.
+</p>
+
 
 # Halaman Ubah Artikel (http://localhost/lab11_php_oop/artikel/ubah?id=1)
 <img width="1919" height="481" alt="image" src="https://github.com/user-attachments/assets/a9c37309-dd41-483b-8702-bf5a69f18753" />
-
+# Penjelasan: 
+<h3>Ubah Data Artikel</h3>
+<p>
+    Halaman ini digunakan untuk mengubah data artikel berdasarkan ID yang dipilih.
+    Ketika halaman dibuka, sistem mengambil data artikel dari database dan 
+    menampilkannya pada form sehingga Anda dapat langsung memperbarui isinya.
+</p>
+<p>
+    Setelah menekan tombol <b>Update</b>, sistem akan menyimpan perubahan tersebut 
+    ke dalam database menggunakan method <i>update()</i> dalam class <b>Database</b>.
+</p>
 
 
 
