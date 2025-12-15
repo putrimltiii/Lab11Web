@@ -92,7 +92,7 @@
 </p>
 
 ## Buat Tabel users & Insert Data Dummy (User Admin)
-![WhatsApp Image 2025-12-15 at 20 48 53_7379bbdd](https://github.com/user-attachments/assets/18fef1a4-212a-4482-8a97-42553e472a94)
+<img width="1516" height="720" alt="image" src="https://github.com/user-attachments/assets/9da469d0-512a-4316-824f-0c1eab19639e" />
 <img width="1919" height="516" alt="image" src="https://github.com/user-attachments/assets/08afce93-4b96-4393-aea3-b0d5136f0abc" />
 
 ## Update Routing (index.php)
@@ -108,6 +108,11 @@
 
 ## Update Template (header.php)
 <img width="1182" height="941" alt="image" src="https://github.com/user-attachments/assets/5dbc0bde-fa61-4085-8b0b-44c177a1d085" />
+
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/07fafc59-b901-40fa-98f4-fae8e07cbe27" />
+
+<img width="1919" height="589" alt="image" src="https://github.com/user-attachments/assets/b37c8846-3b69-4eb5-81ad-245fb55af38d" />
+
 
 
 
