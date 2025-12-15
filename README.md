@@ -113,10 +113,19 @@
 <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/07fafc59-b901-40fa-98f4-fae8e07cbe27" />
 
 ## Home
-<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/8905603d-c9e9-413d-b715-0e228e027180" />
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/b0d942fd-43aa-4be0-8bd1-13e36a31956e" />
 
 ## Data Artikel
-<img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/61eca780-b36a-4b25-8d4a-ae4a7be8279c" />
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/1ef53653-188f-4a5b-888d-cde80b8128e7" />
+
+## Halaman Profile
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/e44c164d-91db-4882-9a01-ef0974b31eef" />
+
+## Logout Administrator (Kembali Kehalaman Login)
+<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/e7fb8665-0fb7-43e3-92b4-e680492cf7cc" />
+
+
+
 
 
 
