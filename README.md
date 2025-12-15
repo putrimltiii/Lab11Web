@@ -91,6 +91,11 @@
     ke dalam database menggunakan method <i>update()</i> dalam class <b>Database</b>.
 </p>
 
+## Buat Tabel users & Insert Data Dummy (User Admin)
+![WhatsApp Image 2025-12-15 at 20 48 53_7379bbdd](https://github.com/user-attachments/assets/18fef1a4-212a-4482-8a97-42553e472a94)
+<img width="1919" height="516" alt="image" src="https://github.com/user-attachments/assets/08afce93-4b96-4393-aea3-b0d5136f0abc" />
+
+
 
 
 
