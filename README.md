@@ -109,13 +109,14 @@
 ## Update Template (header.php)
 <img width="1182" height="941" alt="image" src="https://github.com/user-attachments/assets/5dbc0bde-fa61-4085-8b0b-44c177a1d085" />
 
+## Halaman Login
 <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/07fafc59-b901-40fa-98f4-fae8e07cbe27" />
 
+## Home
 <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/8905603d-c9e9-413d-b715-0e228e027180" />
 
+## Data Artikel
 <img width="1919" height="1013" alt="image" src="https://github.com/user-attachments/assets/61eca780-b36a-4b25-8d4a-ae4a7be8279c" />
-
-<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/2bcb2da4-ccd8-4187-a8d3-dba0b65a28af" />
 
 
 
