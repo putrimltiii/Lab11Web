@@ -96,19 +96,59 @@
 <img width="1919" height="516" alt="image" src="https://github.com/user-attachments/assets/08afce93-4b96-4393-aea3-b0d5136f0abc" />
 
 ## Update Routing (index.php)
+Pembuatan Routing Aplikasi
+File index.php digunakan sebagai front controller yang bertugas
+mengatur routing halaman. Routing membaca URL dan menentukan modul serta
+halaman yang akan ditampilkan.
+Selain itu, pada tahap ini juga diterapkan proteksi halaman menggunakan session, sehingga halaman tertentu hanya dapat diakses setelah user melakukan login.
 <img width="955" height="948" alt="image" src="https://github.com/user-attachments/assets/63a4f8e4-b40e-443f-bea9-9a78d4281ca1" />
 
 ## Module/user/login.php
+# Proses login dilakukan dengan langkah:
+1. Mengambil data username dan password dari form.
+2. Mengambil data user dari database berdasarkan username.
+3. Melakukan verifikasi password menggunakan fungsi password_verify().
+
+Jika login berhasil, session disimpan dan user diarahkan ke halaman artikel.
 <img width="1486" height="922" alt="image" src="https://github.com/user-attachments/assets/75e647a8-1be0-452f-b5b3-88d6526f49ba" />
 <img width="1464" height="889" alt="image" src="https://github.com/user-attachments/assets/82f02bb0-1935-4ca6-8937-e4ecb9ab4c8d" />
 <img width="1466" height="198" alt="image" src="https://github.com/user-attachments/assets/d9a946b3-9f67-441c-8f78-c56dbc1fd6ad" />
 
 ## Module/user/logout.php
+# Implementasi Logout
+Fitur logout dibuat pada module/user/logout.php.
+Proses logout dilakukan dengan:
+-Menghapus session menggunakan session_destroy().
+-Mengarahkan user kembali ke halaman login.
 <img width="765" height="189" alt="image" src="https://github.com/user-attachments/assets/30a7ebba-8261-42a9-b769-d078f2eda0f1" />
 
 ## Update Template (header.php)
+Pembuatan Menu Navigasi
+Menu navigasi dibuat pada file header.php.
+Menu yang ditampilkan akan berbeda tergantung status login user:
+-Jika belum login, hanya menu Login yang ditampilkan.
+Jika sudah login, menu Home, Data Artikel, Profil, dan Logout akan ditampilkan.
 <img width="1182" height="941" alt="image" src="https://github.com/user-attachments/assets/5dbc0bde-fa61-4085-8b0b-44c177a1d085" />
 
+# Pembuatan Fitur Profil User
+Halaman profil dibuat pada module/user/profile.php.
+Pada halaman ini ditampilkan data user yang sedang login, yaitu:
+-Nama
+-Username
+Selain itu, disediakan form untuk mengubah password user. 
+## Module/user/profile.php
+<img width="1162" height="906" alt="image" src="https://github.com/user-attachments/assets/08ca10fc-159e-4312-9bb0-cdb7ea334a5d" />
+
+## Menambahkan Menu Profil pada Header
+<img width="1010" height="812" alt="image" src="https://github.com/user-attachments/assets/e33d0d64-5f93-42dd-8332-f2c5462e3359" />
+
+# Langkah Uji Coba
+1. Langkah uji coba dilakukan sebagai berikut:
+2. Mengakses halaman artikel tanpa login dan memastikan sistem mengarahkan ke halaman login.
+3. Melakukan login dengan akun admin.
+4. Mengakses halaman profil dan mengubah password.
+5. Melakukan logout dan login kembali dengan password baru.
+   
 ## Halaman Login
 <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/07fafc59-b901-40fa-98f4-fae8e07cbe27" />
 
@@ -124,7 +164,14 @@
 ## Logout Administrator (Kembali Kehalaman Login)
 <img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/e7fb8665-0fb7-43e3-92b4-e680492cf7cc" />
 
+# Kesimpulan
+Berdasarkan praktikum yang dilakukan, dapat disimpulkan bahwa sistem
+login berbasis PHP OOP dengan session berhasil diimplementasikan dengan
+baik. Sistem mampu membatasi akses halaman, mengelola autentikasi user,
+serta menyediakan fitur pengelolaan profil dan keamanan password.
 
+## Update STRUKTUR FOLDER 
+<img width="240" height="846" alt="image" src="https://github.com/user-attachments/assets/8169d5e6-6781-44f5-a6d1-d5ba2cb1f8c5" />
 
 
 
