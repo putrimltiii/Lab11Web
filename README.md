@@ -103,6 +103,12 @@
 <img width="1464" height="889" alt="image" src="https://github.com/user-attachments/assets/82f02bb0-1935-4ca6-8937-e4ecb9ab4c8d" />
 <img width="1466" height="198" alt="image" src="https://github.com/user-attachments/assets/d9a946b3-9f67-441c-8f78-c56dbc1fd6ad" />
 
+## Module/user/logout.php
+<img width="765" height="189" alt="image" src="https://github.com/user-attachments/assets/30a7ebba-8261-42a9-b769-d078f2eda0f1" />
+
+## Update Template (header.php)
+<img width="1182" height="941" alt="image" src="https://github.com/user-attachments/assets/5dbc0bde-fa61-4085-8b0b-44c177a1d085" />
+
 
 
 
