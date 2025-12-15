@@ -95,6 +95,14 @@
 ![WhatsApp Image 2025-12-15 at 20 48 53_7379bbdd](https://github.com/user-attachments/assets/18fef1a4-212a-4482-8a97-42553e472a94)
 <img width="1919" height="516" alt="image" src="https://github.com/user-attachments/assets/08afce93-4b96-4393-aea3-b0d5136f0abc" />
 
+## Update Routing (index.php)
+<img width="955" height="948" alt="image" src="https://github.com/user-attachments/assets/63a4f8e4-b40e-443f-bea9-9a78d4281ca1" />
+
+## Module/user/login.php
+<img width="1486" height="922" alt="image" src="https://github.com/user-attachments/assets/75e647a8-1be0-452f-b5b3-88d6526f49ba" />
+<img width="1464" height="889" alt="image" src="https://github.com/user-attachments/assets/82f02bb0-1935-4ca6-8937-e4ecb9ab4c8d" />
+<img width="1467" height="218" alt="image" src="https://github.com/user-attachments/assets/586ac970-dde1-4923-bb4c-e729d545fda8" />
+
 
 
 
